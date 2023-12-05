@@ -1,3 +1,4 @@
+//Test
 class Node {
     constructor({value=null}) {
       this.value = value;
